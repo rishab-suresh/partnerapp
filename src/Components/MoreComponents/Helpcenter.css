@@ -1,0 +1,14 @@
+#help{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.iconhelp{
+    
+    display: flex;
+}
+
+.desctiptionhelp{
+    margin-left: 0px;
+}

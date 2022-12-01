@@ -1,0 +1,5 @@
+#Orders{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.5px solid black;
+}

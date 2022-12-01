@@ -1,0 +1,14 @@
+.Inventory{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#InventoryBg{
+    background-color: #A0DAA9;
+}
+
+.container searchbar-wrapper{
+    background-color: black;
+}

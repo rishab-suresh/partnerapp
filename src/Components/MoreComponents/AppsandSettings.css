@@ -1,0 +1,20 @@
+.settings{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+   
+}
+
+#cols{
+    border-bottom: 1px solid black;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.iconpic{
+    margin-right: 10px;
+}

@@ -1,0 +1,14 @@
+.NonVegFooddata{
+    display: flex;
+}
+
+.FoodData{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.left-side{
+    display: flex;
+    justify-content: space-between;
+}

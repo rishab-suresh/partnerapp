@@ -1,0 +1,16 @@
+.addons-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.addons-list{
+    display: flex;
+
+    
+}
+
+.veg{
+    margin-right: 30px;
+    
+  
+}
