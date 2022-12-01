@@ -1,0 +1,20 @@
+#icon{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+    background-color: rgba(230, 195, 255, 0.7);
+    height: max-content;
+   
+}
+
+.iconlist{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iconandinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

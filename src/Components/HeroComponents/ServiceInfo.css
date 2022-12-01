@@ -1,0 +1,26 @@
+#service{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.serviceinfo{
+    margin-bottom: 20px;
+}
+.listandpic{
+    display: flex;
+    margin-top: 10px;
+    flex-direction:row ;
+    justify-content: space-between;
+}
+
+.listinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.service-offer{
+    display: block;
+    flex-direction: column;
+    
+}

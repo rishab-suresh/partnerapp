@@ -1,0 +1,37 @@
+#banner{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-bottom: 100px
+}
+
+.Heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.components{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+i{
+    color: cadetblue;
+}
+
+
+
+
+h2{
+    word-wrap: normal;
+}
+
+p{
+    word-wrap: normal;
+}
